@@ -1,0 +1,43 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Andrew Hedges",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8008 & sleep 5 & open http://localhost:8008",
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segdeha/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/segdeha/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/segdeha/react-boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "accounting": "latest",
+    "browserify": "latest",
+    "gulp": "latest",
+    "gulp-babel": "latest",
+    "gulp-browserify": "latest",
+    "gulp-cleancss": "latest",
+    "gulp-concat": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "gulp-watch": "latest",
+    "hoverboard": "^3.0.0-alpha",
+    "jquery": "latest",
+    "moment": "latest",
+    "page": "^1.6.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "reactify": "latest"
+  }
+}
