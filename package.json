@@ -32,10 +32,10 @@
     "gulp-uglify": "latest",
     "gulp-util": "latest",
     "gulp-watch": "latest",
-    "hoverboard": "^3.0.0-alpha",
+    "hoverboard": "latest",
     "jquery": "latest",
     "moment": "latest",
-    "page": "^1.6.4",
+    "page": "latest",
     "react": "latest",
     "react-dom": "latest",
     "reactify": "latest"
